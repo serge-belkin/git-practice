@@ -1,1 +1,58 @@
-.main {background-color: aqua;}
+.body {background-color: rgb(255, 255, 255); font-family: 'Montserrat', sans-serif;}
+
+.main {
+        display: flex;
+        flex-direction: row-reverse;
+        width: 1200px;
+        margin: 0 auto;
+    }
+
+/* sidebar styles */
+.sidebar {background-color:#1E2939;
+padding-top: 40px;
+width: 370px;}
+
+.photo {margin-bottom: 50px;}
+
+.sidebar-titles {font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+margin-bottom: 10px;}
+
+.contacts, .tech-skills, .soft-skills {margin-left: 40px;}
+
+.contacts {margin-bottom: 50px;}
+
+.tech-skil  {margin-bottom: 45px;}
+
+.skills-list {padding: 0; margin-left: 20px;}
+
+.skills-item {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FB6D3A;}
+
+.skills {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;}
+
+.contact-name {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: 10px;
+    }
+
+.contact {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    opacity: 0.5;}
+
