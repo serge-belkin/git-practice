@@ -5,7 +5,72 @@
         flex-direction: row-reverse;
         width: 1200px;
         margin: 0 auto;
+        background-color: antiquewhite;
     }
+    /* main-content styles */
+.main-content {background-color: #FFFFFF;
+    box-shadow: 6px 6px 28px rgba(0, 0, 0, 0.1);
+    padding: 105px 90px;}
+
+.about {width: 400px;
+} 
+
+.position {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+margin-bottom: 20px;}
+
+.name {font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+margin-bottom: 25px;}
+
+.about-user {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 40px;
+    color: #595959;}
+
+.projects {width: 485px;
+margin-bottom: 50px;}
+
+.main-titles {font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+margin-bottom: 10px;}
+
+.project-list {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;}
+
+.project-link {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    outline: none;
+    text-decoration: none;
+    color: #595959;}
+
+.projects-skills {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;}
+
+.brackets {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;}
 
 /* sidebar styles */
 .sidebar {background-color:#1E2939;
