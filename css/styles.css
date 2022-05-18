@@ -5,7 +5,7 @@
         flex-direction: row-reverse;
         width: 1200px;
         margin: 0 auto;
-        background-color: antiquewhite;
+        background-color: #E5E5E5;
     }
     /* main-content styles */
 .main-content {background-color: #FFFFFF;
@@ -50,7 +50,9 @@ margin-bottom: 10px;}
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
-    color: #000000;}
+    color: #000000;
+    padding: 0; 
+    margin-left: -25px;}
 
 .project-link {font-style: normal;
     font-weight: 400;
@@ -70,6 +72,60 @@ margin-bottom: 10px;}
     font-weight: 700;
     font-size: 14px;
     line-height: 24px;
+    color: #000000;}
+
+.work-position {font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;}
+
+.organization {font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;}
+
+.period {font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    margin-bottom: 10px;
+    color: #A8A8A8;}
+
+.line {font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;}
+
+.work-list {font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #595959;
+    padding: 0;
+    margin-left: 15px;}
+
+.work {width: 525px;}
+
+.education {width: 327px;
+margin-top: 45px;}
+
+.university {font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 10px;
+    color: #FB6D3A;}
+
+.department {font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+   margin-bottom: 10px;
     color: #000000;}
 
 /* sidebar styles */
